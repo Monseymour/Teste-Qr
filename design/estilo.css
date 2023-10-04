@@ -40,3 +40,11 @@ main.conteiner img{
     color: hsl(220, 15%, 55%);
     padding: 10px;
 }
+@media (min-width: 400px){
+    body {
+        height: 100vh;
+        justify-content: center;
+    }
+    main.conteiner{
+        width: 40%;
+    }
