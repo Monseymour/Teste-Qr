@@ -42,7 +42,7 @@ main.conteiner img{
 }
 @media (min-width: 400px){
     body {
-        height: 100vh;
+        height: 90vh;
         justify-content: center;
     }
     main.conteiner{
