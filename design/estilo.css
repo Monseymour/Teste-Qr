@@ -17,7 +17,7 @@ main.conteiner{
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 25%;
+    width: 80%;
     padding: 2%;
     margin: 5%;
     gap: 10px;
@@ -34,7 +34,7 @@ main.conteiner img{
 .conteiner .texto{
     color: hsl(218, 44%, 22%);
     font-size: 15px;
-    padding: 10px;
+    /* padding: 10px; */
 }
 .conteiner .texto p{
     color: hsl(220, 15%, 55%);
@@ -45,6 +45,6 @@ main.conteiner img{
         height: 90vh;
         justify-content: center;
     }
-    main.conteiner {
+    main.conteiner{
         width: 40%;
     }
