@@ -45,3 +45,6 @@ main.conteiner img{
         height: 90vh;
         justify-content: center;
     }
+    main.conteiner {
+        width: 40%;
+    }
