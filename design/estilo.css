@@ -34,7 +34,7 @@ main.conteiner img{
 .conteiner .texto{
     color: hsl(218, 44%, 22%);
     font-size: 15px;
-    /* padding: 10px; */
+    padding: 10px;
 }
 .conteiner .texto p{
     color: hsl(220, 15%, 55%);
