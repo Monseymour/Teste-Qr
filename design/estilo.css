@@ -17,8 +17,8 @@ main.conteiner{
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 100%;
-    padding: 5%;
+    width: 25%;
+    padding: 2%;
     margin: 5%;
     gap: 10px;
     border-radius: 20px;
@@ -44,7 +44,4 @@ main.conteiner img{
     body {
         height: 90vh;
         justify-content: center;
-    }
-    main.conteiner{
-        width: 40%;
     }
